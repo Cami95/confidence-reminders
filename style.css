@@ -1,0 +1,17 @@
+body{
+    text-align: center;
+}
+
+h1{
+    display: block;
+    margin: auto;
+    padding: 10px;
+}
+
+footer{
+    display: flex;
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    z-index: 10;
+}
