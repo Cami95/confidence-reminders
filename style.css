@@ -5,10 +5,13 @@ body{
 .opening{
     display: block;
     margin: auto;
-    padding: 16px 5px 16px 5px;
     border: 2px solid blue;
     border-radius: 10px;
     background: purple;
+    color: white;
+    max-width: 700px;
+
+    
     
     
 }
@@ -17,6 +20,12 @@ h1{
     display: block;
     margin: auto;
     padding: 10px;
+}
+
+h4{
+ display: block;
+ margin: auto;
+ padding: 15px;
 }
 
 footer{
